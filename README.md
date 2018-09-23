@@ -1,3 +1,3 @@
 # rsschool-profile
 Nikita Yasonov
-https://www.codecademy.com/users/mazhoranta/achievements
+HTML CSS Basics: https://www.codecademy.com/users/mazhoranta/achievements
